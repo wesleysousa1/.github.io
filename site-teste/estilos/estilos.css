@@ -1,0 +1,39 @@
+ html {
+  background-color: #FF9500;
+}
+h1{
+    font-size: 30px;
+    text-align: center; /*alinhamento*/
+  }
+  h2
+  {font-size: 15px;
+  text-align: center }
+  
+  p, li {
+    font-size: 16spx;
+    line-height: 2;     /*Espaço vertical das linhas*/
+    letter-spacing: 1px; /*Espaço horizontal das letras*/
+    text-align:center;
+  }
+html {font-size: 15px;       /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+  font-family: "Montserrat", sans-serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+   
+  
+}
+  body{
+  font-family: sans-serif;
+    background-image: url(../imagens/fundo1.jpeg);
+   
+
+
+}body {
+  width: 1500px;                      /*largura*/
+  margin: 0 auto;
+  background-color: #FF9500;       /*cor de fundo do elemento*/
+  padding: 0 20px 20px 20px;         /*Preenchimento*/
+  border: 5px solid rgb(255, 255, 255);
+}
+img { display: block;
+    margin: 0 auto;}
+
+    
